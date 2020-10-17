@@ -57,5 +57,19 @@
             "url": "http://boekschrijven.quarantaine.academy",
             "text": "Ga naar boekschrijven.q.a"
         }
+    },
+    {
+        "name": "Zelf een mondkapje maken",
+        "mentor": {
+            "name": "Ministerie van Volksgezondheid, Welzijn en Sport",
+            "role": "Verantwoordelijk"
+        },
+        "start": "Vóórdat je de deur uit gaat",
+        "duration": "Neem rustig de tijd",
+        "cost": "Gratis natuurlijk",
+        "link": {
+            "url": "https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/documenten/publicaties/2020/05/09/covid-19-niet-medisch-mondkapje",
+            "text": "Ga naar rijksoverheid.nl"
+        }
     }
 ]
