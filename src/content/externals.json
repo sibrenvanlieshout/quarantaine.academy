@@ -31,21 +31,6 @@
         }
     },
     {
-        "name": "Het Grootste Coronaspreekuur van Nederland op 5 november",
-        "mentor": {
-            "name": "Jeroen Pauw en Ajouad el Miloudi",
-            "role": "Facilitators",
-            "avatar": "https://www.cbg-meb.nl/binaries/large/content/gallery/college-ter-beoordeling-van-geneesmiddelen/content-afbeeldingen/nieuwsberichten/2020/nieuwsbericht_1326x693-v2.jpg"
-        },
-        "duration": "2 uur",
-        "start": "Donderdag 5 november 19:30",
-        "cost": "Gratis natuurlijk",
-        "link": {
-            "url": "https://www.cbg-meb.nl/actueel/nieuws/2020/10/16/het-grootste-coronaspreekuur-van-nederland-op-5-november",
-            "text": "Bekijk op cbg-meb.nl"
-        }
-    },
-    {
         "name": "boekschrijven.q.a",
         "mentor": {
             "name": "Iedereen",
@@ -56,21 +41,6 @@
         "link": {
             "url": "http://boekschrijven.quarantaine.academy",
             "text": "Ga naar boekschrijven.q.a"
-        }
-    },
-    {
-        "name": "Zelf een mondkapje maken",
-        "mentor": {
-            "name": "Ministerie van Volksgezondheid, Welzijn en Sport",
-            "role": "Verantwoordelijk"
-        },
-        "description": "Misschien zijn er ook andere oplossingen? Wetenschap en Techniek vorderen snel, houd het in de gaten!",
-        "start": "Vóórdat je de deur uit gaat",
-        "duration": "Neem rustig de tijd",
-        "cost": "Gratis natuurlijk",
-        "link": {
-            "url": "https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/documenten/publicaties/2020/05/09/covid-19-niet-medisch-mondkapje",
-            "text": "Ga naar rijksoverheid.nl"
         }
     }
 ]
