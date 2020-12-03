@@ -2,15 +2,18 @@
   <div id="app">
     <Welcome />
     <router-view />
+    <PolisCard />
   </div>
 </template>
 
 <script lang="ts">
+import PolisCard from "@/components/PolisCard.vue"
 import Welcome from "@/views/Welcome.vue"
 
 export default {
   name: 'App',
   components: {
+    PolisCard,
     Welcome
   }
 }
