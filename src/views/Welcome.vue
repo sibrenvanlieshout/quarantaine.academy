@@ -5,6 +5,9 @@
     <p>
       Quarantaine is voor niemand leuk. Om de pijn wat te verzachten vind je hier een overzicht van cursusaanbod, zodat je je tijd nuttig kunt besteden!
     </p>
+    <p>
+      Je kunt ook meedoen aan <router-link to="polis">polis</router-link>
+    </p>
     
   </div>
 </template>
