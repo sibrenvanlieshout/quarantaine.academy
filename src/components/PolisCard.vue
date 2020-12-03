@@ -1,6 +1,5 @@
 <template>
   <b-card
-    style="max-width: 50rem;"
     class="m-3"
   >
     <b-card-title>            
