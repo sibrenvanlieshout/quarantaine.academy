@@ -6,7 +6,7 @@
     style="min-width: 15rem; max-width: 25rem"
     class="m-3"
   >
-    <b-card-title>{{ name }}</b-card-title>
+    <b-card-title><b-link :href="link.url"><b-badge>{{ name }}</b-badge></b-link></b-card-title>
     <b-card-sub-title class="m-2"
       >{{ mentor.role }}: {{ mentor.name }}</b-card-sub-title
     >
